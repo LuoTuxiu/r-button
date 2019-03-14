@@ -1,0 +1,22 @@
+{
+  "name": "r-button",
+  "version": "1.0.0",
+  "description": "to be a custom button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuoTuxiu/r-button.git"
+  },
+  "author": "luotuxiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuoTuxiu/r-button/issues"
+  },
+  "homepage": "https://github.com/LuoTuxiu/r-button#readme",
+  "dependencies": {
+    "vue": "^2.6.9"
+  }
+}
